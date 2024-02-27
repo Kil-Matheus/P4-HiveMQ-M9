@@ -53,8 +53,9 @@ Este programa é um cliente MQTT em Go que publica mensagens em um tópico espec
      - Publica mensagens periodicamente em um loop infinito.
      - Desconecta-se do broker MQTT ao finalizar o programa.
 
-##
+## Link do Broker
 
+Link: https://console.hivemq.cloud/
 
 ## Vídeo de Execução
 
